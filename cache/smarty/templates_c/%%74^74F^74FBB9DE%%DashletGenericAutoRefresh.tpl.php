@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.33, created on 2023-03-03 20:54:41
+<?php /* Smarty version 2.6.33, created on 2023-03-03 21:07:02
          compiled from include/Dashlets/DashletGenericAutoRefresh.tpl */ ?>
 <input type="hidden" id="<?php echo $this->_tpl_vars['dashletId']; ?>
 _offset" name="<?php echo $this->_tpl_vars['dashletId']; ?>

@@ -1,5 +1,5 @@
 <?php
-// created: 2023-03-03 20:54:09
+// created: 2023-03-03 21:03:41
 $sugar_config = array (
   'addAjaxBannedModules' => 
   array (
@@ -260,6 +260,7 @@ $sugar_config = array (
   'languages' => 
   array (
     'en_us' => 'English (US)',
+    'ru_RU' => 'Русский (Russian) - ru_RU',
   ),
   'large_scale_test' => false,
   'lead_conv_activity_opt' => 'donothing',

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.33, created on 2023-03-03 20:54:23
+<?php /* Smarty version 2.6.33, created on 2023-03-03 21:06:50
          compiled from /var/www/html/suitecrm7/include/utils/recaptcha_disabled.tpl */ ?>
 <?php echo '
 <script>
