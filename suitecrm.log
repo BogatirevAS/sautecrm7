@@ -19,3 +19,43 @@ Fri Mar  3 20:54:09 2023 [2756][1][SECURITY] Setting logger_file_name to ''.
 Fri Mar  3 20:54:09 2023 [2756][1][SECURITY] Log file extension can't be blank.
 Fri Mar  3 20:54:09 2023 [2756][1][SECURITY] Setting logger_file_name to ''.
 Fri Mar  3 20:54:09 2023 [2756][1][SECURITY] Log file extension can't be blank.
+Sun Mar  5 08:11:29 2023 [709][1][FATAL] Ошибка: Модуль TestMessage не существует.
+Sun Mar  5 08:27:23 2023 [709][1][FATAL] Exception handling in /var/www/html/suitecrm7/include/MVC/Controller/SugarController.php:397
+Sun Mar  5 08:27:23 2023 [709][1][FATAL] Exception in Controller: Ошибка получения записи. Вероятно, эта запись была удалена или у вас недостаточно прав для её просмотра.
+Sun Mar  5 10:35:07 2023 [713][1][FATAL] Exception handling in /var/www/html/suitecrm7/include/MVC/Controller/SugarController.php:397
+Sun Mar  5 10:35:07 2023 [713][1][FATAL] Exception in Controller: Нет никаких действий для этого имени: echo
+Sun Mar  5 10:53:04 2023 [2586][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:04 2023 [2586][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:07 2023 [2586][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:07 2023 [2586][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:12 2023 [710][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:12 2023 [710][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:18 2023 [3895][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:18 2023 [3895][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:29 2023 [3393][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:29 2023 [3393][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:29 2023 [3393][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type testpackage is not recognized
+Sun Mar  5 10:53:29 2023 [3393][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:29 2023 [3393][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:31 2023 [3393][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 10:53:31 2023 [3393][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar  5 15:39:17 2023 [710][1][FATAL] Exception handling in /var/www/html/suitecrm7/include/MVC/Controller/SugarController.php:397
+Sun Mar  5 15:39:17 2023 [710][1][FATAL] Exception in Controller: A record number must be specified to delete
+Sun Mar  5 15:40:08 2023 [5585][1][FATAL] Exception handling in /var/www/html/suitecrm7/include/MVC/Controller/SugarController.php:397
+Sun Mar  5 15:40:08 2023 [5585][1][FATAL] Exception in Controller: A record number must be specified to delete
+Sun Mar  5 15:41:49 2023 [3895][1][FATAL] Exception handling in /var/www/html/suitecrm7/include/MVC/Controller/SugarController.php:397
+Sun Mar  5 15:41:49 2023 [3895][1][FATAL] Exception in Controller: A record number must be specified to delete
+Sun Mar  5 15:42:25 2023 [710][1][FATAL] Exception handling in /var/www/html/suitecrm7/include/MVC/Controller/SugarController.php:397
+Sun Mar  5 15:42:25 2023 [710][1][FATAL] Exception in Controller: A record number must be specified to delete
+Sun Mar  5 15:42:42 2023 [2557][1][FATAL] Exception handling in /var/www/html/suitecrm7/include/MVC/Controller/SugarController.php:397
+Sun Mar  5 15:42:42 2023 [2557][1][FATAL] Exception in Controller: A record number must be specified to delete
+Sun Mar  5 15:44:49 2023 [3895][1][FATAL] Exception handling in /var/www/html/suitecrm7/include/MVC/Controller/SugarController.php:397
+Sun Mar  5 15:44:49 2023 [3895][1][FATAL] Exception in Controller: Ошибка получения записи. Вероятно, эта запись была удалена или у вас недостаточно прав для её просмотра.
+Sun Mar  5 15:44:57 2023 [3393][1][FATAL] Exception handling in /var/www/html/suitecrm7/include/MVC/Controller/SugarController.php:397
+Sun Mar  5 15:44:57 2023 [3393][1][FATAL] Exception in Controller: Ошибка получения записи. Вероятно, эта запись была удалена или у вас недостаточно прав для её просмотра.
+Sun Mar  5 15:45:01 2023 [3393][1][FATAL] Exception handling in /var/www/html/suitecrm7/include/MVC/Controller/SugarController.php:397
+Sun Mar  5 15:45:01 2023 [3393][1][FATAL] Exception in Controller: Ошибка получения записи. Вероятно, эта запись была удалена или у вас недостаточно прав для её просмотра.
+Sun Mar  5 15:45:09 2023 [3393][1][FATAL] Exception handling in /var/www/html/suitecrm7/include/MVC/Controller/SugarController.php:397
+Sun Mar  5 15:45:09 2023 [3393][1][FATAL] Exception in Controller: Ошибка получения записи. Вероятно, эта запись была удалена или у вас недостаточно прав для её просмотра.
+Sun Mar  5 15:58:13 2023 [3393][1][FATAL] Exception handling in /var/www/html/suitecrm7/include/MVC/Controller/SugarController.php:397
+Sun Mar  5 15:58:13 2023 [3393][1][FATAL] Exception in Controller: Ошибка получения записи. Вероятно, эта запись была удалена или у вас недостаточно прав для её просмотра.

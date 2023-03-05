@@ -1,0 +1,33 @@
+<?php
+$dashletData['cstm_TestMessagesDashlet']['searchFields'] = array (
+  'date_entered' => 
+  array (
+    'default' => '',
+  ),
+  'date_modified' => 
+  array (
+    'default' => '',
+  ),
+  'assigned_user_id' => 
+  array (
+    'type' => 'assigned_user_name',
+    'default' => 'Administrator',
+  ),
+);
+$dashletData['cstm_TestMessagesDashlet']['columns'] = array (
+  'name' => 
+  array (
+    'type' => 'name',
+    'link' => true,
+    'label' => 'LBL_NAME',
+    'width' => '40%',
+    'default' => true,
+  ),
+  'date_entered' => 
+  array (
+    'width' => '15%',
+    'label' => 'LBL_DATE_ENTERED',
+    'default' => true,
+    'name' => 'date_entered',
+  ),
+);

@@ -1,5 +1,5 @@
 <?php
-// created: 2023-03-03 21:07:02
+// created: 2023-03-05 11:01:52
 $dashletsFiles = array (
   'MyContactsDashlet' => 
   array (
@@ -7,6 +7,13 @@ $dashletsFiles = array (
     'class' => 'MyContactsDashlet',
     'meta' => 'modules/Contacts/Dashlets/MyContactsDashlet/MyContactsDashlet.meta.php',
     'module' => 'Contacts',
+  ),
+  'cstm_TestMessagesDashlet' => 
+  array (
+    'file' => 'modules/cstm_TestMessages/Dashlets/cstm_TestMessagesDashlet/cstm_TestMessagesDashlet.php',
+    'class' => 'cstm_TestMessagesDashlet',
+    'meta' => 'modules/cstm_TestMessages/Dashlets/cstm_TestMessagesDashlet/cstm_TestMessagesDashlet.meta.php',
+    'module' => 'cstm_TestMessages',
   ),
   'MyProjectDashlet' => 
   array (
